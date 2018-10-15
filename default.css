@@ -9,3 +9,7 @@ body{
   border: green 1px solid;
   background-color: white;
     }
+.btn{
+  -webkit-appearance:none;
+  margin: 5px;
+}
